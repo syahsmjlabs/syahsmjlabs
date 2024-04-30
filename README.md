@@ -5,7 +5,7 @@ Laravel dan lainnya.
 
 🌱 Saat ini saya sedang belajar bagaimana cara nya mengefisiensikan suatu logika yang kita terapkan kedalam sebuah kode bahasa pemrograman apapun itu agar dapat digunakan dengan efesien dan masih banyak lagi yang harus dipelajari.
 
-💞️ Saya ingin berkolaborasi dengan siapa saja yang dapat membuat saya berkembang (kamu tau masih banyak yang perlu saya pelajari 😄)
+💞️ Saya ingin berkolaborasi dengan siapa saja yang dapat membuat saya berkembang kearah yang positif (kamu tau masih banyak yang perlu saya pelajari 😄)
 
 📫 Bagaimana cara menghubungi saya? anda dapat menghubungi saya di email syahsmjlabs@gmail.com
 
